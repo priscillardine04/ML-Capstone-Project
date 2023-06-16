@@ -1,5 +1,10 @@
 # Capstone-Project
 ## Crop Recommendation Documentation
+
+### Project Description
+Crop recommendation feature built in for Capstone Project. The system built on Machine Learning techniques to recommend suitable crop based on some parameter conditions that inputted by user. The model deployed in a Pickle format for next deployment to Android Studio. This project was created by Priscilla Ardine Puspitasari, Muhammad Hafizh Rachman, and Qanita Zafa Ariska as part of the Bangkit Capstone Project, demonstrating their skills and knowledge gained throughout the program.
+### Features
+Giving crop recommendation based on several variables related to soil contents and weather parameters.
 ### Splitting Data
 There are a total of 24.201 row of data. From this dataset, we split the data into 2 set, that are Training set with 80% proportion and Test set with a proportion of 20%
 ### Inputing Data
