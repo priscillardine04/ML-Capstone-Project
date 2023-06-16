@@ -1,7 +1,7 @@
 # Plant Disease Detection
 
 ## Project Description
-Plant disease detection feature built in for Rise Capstone Project. This feature uses a machine learning algorithm by building a Convolutional Neural Network model in a Tensorflow lite format for further deployment to Android Studio. This project was created by Priscilla Ardine Puspitasari, Muhammad Hafizh Rachman, and Qanita Zafa Ariska as part of the Bangkit Capstone Project, demonstrating their skills and knowledge gained throughout the program.
+Plant disease detection feature built in for Capstone Project. This feature uses a machine learning algorithm by building a Convolutional Neural Network model in a Tensorflow lite format for further deployment to Android Studio. This project was created by Priscilla Ardine Puspitasari, Muhammad Hafizh Rachman, and Qanita Zafa Ariska as part of the Bangkit Capstone Project, demonstrating their skills and knowledge gained throughout the program.
 
 ## Features
 Plant detection and classification based on uploaded images.
